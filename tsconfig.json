@@ -1,0 +1,25 @@
+{
+    "compilerOptions": {
+     "target": "es5",
+     "experimentalDecorators": true,
+     "emitDecoratorMetadata": true,
+     "moduleResolution": "node",
+     "downlevelIteration": true,
+     "esModuleInterop": true,
+     "baseUrl": "./src",
+     "outDir": "./dist",
+     "sourceMap": true,
+ 
+     "lib": [
+         "es2016",
+         "dom"
+     ],
+     "module": "commonjs",
+     "typeRoots": [
+         "./node_modules/@types"
+     ],
+     "paths": {
+         "@/*": [ "*" ]
+     }
+    }
+ }
