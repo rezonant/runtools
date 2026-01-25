@@ -1,6 +1,6 @@
 {
     "name": "runtools",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "Small tools useful for NPM scripts",
     "main": "index.js",
     "bin": {
