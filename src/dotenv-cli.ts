@@ -1,7 +1,6 @@
 #!/usr/bin/env node
-const dotenv = require('dotenv');
+import dotenv from 'dotenv';
 import path from 'path';
-import fs from 'fs';
 import childProcess from 'child_process';
 
 let args = process.argv.slice(2);
