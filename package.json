@@ -1,5 +1,5 @@
 {
-    "name": "@rezonant/runtools",
+    "name": "runtools",
     "version": "0.0.1",
     "description": "Small tools useful for NPM scripts",
     "main": "index.js",
